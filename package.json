@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git@github.com:thegamenicorus/react-native-timeline-listview.git"
   },
-  "dependencies": {
-    "deprecated-react-native-listview": "0.0.6"
-  },
   "keywords": [
     "react-native",
     "timeline",
@@ -24,7 +21,7 @@
     "component"
   ],
   "peerDependencies": {
-    "react-native": ">= 0.4"
+    "react-native": ">= 0.57"
   },
   "author": "Watcharachai Kanjaikaew (https://github.com/thegamenicorus)",
   "license": "MIT",
